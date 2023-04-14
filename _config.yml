@@ -20,7 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: securitydojopod
 github_username: username
 minimal_mistakes_skin: default
-search: true
+logo: "/assets/images/logo_88x88.png"
+search: false
 
 # Build settings
 markdown: kramdown
