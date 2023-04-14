@@ -16,9 +16,7 @@
 title: Security Dojo
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to Security Dojo, the podcast that helps you and your organization stay oriented in the world of cybersecurity
 twitter_username: securitydojopod
 github_username: username
 minimal_mistakes_skin: default
@@ -80,12 +78,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/security-dojo-podcast"
 
 defaults:
   # _posts
