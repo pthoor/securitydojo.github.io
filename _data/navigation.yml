@@ -5,6 +5,8 @@ main:
  #   url: /categories/
  # - title: "Tags"
  #   url: /tags/
+  - title: "Episodes"
+    url: /episodes/
   - title: "🎙️ Security Dojo @ Spotify"
     url: https://open.spotify.com/show/52EVzPioqoALzeFyou6mM6?si=20ad551c19b14922
   - title: "🍎 Security Dojo @ Apple Podcast"
